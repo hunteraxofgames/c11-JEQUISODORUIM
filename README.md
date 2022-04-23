@@ -1,0 +1,2 @@
+# c11-JEQUISODORUIM
+JEQUISO é ruim
